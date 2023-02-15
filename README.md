@@ -1,16 +1,42 @@
-### Hi there 👋
+### Hello there, 👋
 
-<!--
-**HalliteCC/HalliteCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Caie, I'm 27 years old and I'm from Brazil.
+
+  I graduated in production engineering at the year 2021 and one year later I found my passion for programming.
+  So now I'm studying to be a mobile developer and I love the fact that we can just write some lines and magic happens on the screen and this can go to the hand of ever   single person on the world. 
+
+- 🌱 I’m currently learning Kotlin to develope mobile apps
+
+![Caie's GitHub stats](https://github-readme-stats.vercel.app/api?username=HalliteCC&show_icons=true&theme=transparent)
+
+
+
+###
+
+<hr>
+<h3 align="center"> 💼 Linguagens e Ferramentas</h3>
+<br>
+
+<div align="center">
+<img  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+</div>
+<div align="center">
+ 
+![snake gif](https://github.com/yasmindematos/yasmindematos/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/hallitecc/count.svg?"  />
+</div>
+
+###
+<hr>
+<div align="center"> 
+  <a href = "mailto: hallitecaie@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/caie-hallite-55a5b3183/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
+
+
