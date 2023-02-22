@@ -9,7 +9,6 @@ My name is Caie, I'm 27 years old and I'm from Brazil.
 
 - 🌱 I’m currently learning Kotlin to develope mobile apps
 
-![Caie's GitHub stats](https://github-readme-stats.vercel.app/api?username=HalliteCC&show_icons=true&theme=transparent)
 
 
 
