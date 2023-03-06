@@ -19,7 +19,14 @@ My name is Caie, I'm 28 years old and I'm from Brazil.
 <br>
 
 <div align="center">
-<img  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+  
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg" />
+          
+ 
+          
 </div>
 <div align="center">
  
